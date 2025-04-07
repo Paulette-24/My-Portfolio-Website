@@ -19,7 +19,7 @@ This is a personal portfolio website built using **HTML**, **CSS**, and **JavaSc
 
 ## 📸 Demo
 
-Check out the live demo 👉 [GitHub Pages Link](https://paulette-24.github.io/css-js-html-portfolio)
+Check out the live demo 👉 [GitHub Pages Link](https://paulette-24.github.io/My-Portfolio-Website/)
 
 ## 🧠 What I Learned
 
